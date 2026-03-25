@@ -18,7 +18,7 @@
 Dependabot을 기본 설정으로 구성하고, 열린 알림에 대한 수정사항을 자동으로 결합하여 풀 리퀘스트를 생성하도록 합시다. 이를 통해 최소한의 노력으로 최신 상태를 유지할 수 있습니다! 멋지네요!
 
 > [!TIP]
-> 더 깊이 알아보려면 [Secure Repository Supply Chain](https://github.com/skills/secure-repository-supply-chain) Skills 실습을 확인하세요!
+> 더 깊이 알아보려면 [저장소 공급망 보안](https://github.com/skills-kr/secure-repository-supply-chain) Skills 실습을 확인하세요!
 
 1. 상단 탐색에서 **Settings** 탭을 선택합니다.
 
