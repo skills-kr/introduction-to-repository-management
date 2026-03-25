@@ -1,27 +1,27 @@
-# Step 3: Foster healthy growth
+# Step 3: 건강한 성장 촉진하기
 
-With so many eager contributors, Principal Martinez pulled you aside after morning announcements: "Your website is becoming critical school infrastructure! We need to make sure it grows in a healthy way as more teachers join. Can you add some guidelines to keep everything organized?"
+많은 열정적인 기여자들과 함께, Martinez 교장 선생님이 아침 조회 후 여러분을 불러세웠습니다: "여러분의 웹사이트가 학교의 핵심 인프라가 되고 있어요! 더 많은 교사가 참여함에 따라 건강하게 성장할 수 있도록 가이드라인을 추가해 줄 수 있나요?"
 
-As your extra-curricular activities website grows, you'll need more than just technical protections and contribution guides. You'll also have to encourage healthy and constructive communication.
+방과후 활동 웹사이트가 성장함에 따라, 기술적 보호와 기여 가이드 이상의 것이 필요합니다. 건강하고 건설적인 소통을 장려해야 합니다.
 
-Let's look at a couple ways to do that:
+몇 가지 방법을 살펴봅시다:
 
-1. **Code of Conduct** - This document sets expectations for how community members should interact. Think of it like the Student Handbook at Mergington High - it outlines respectful behavior, how to report non-technical problems, and consequences for violations.
+1. **행동 강령(Code of Conduct)** - 이 문서는 커뮤니티 구성원들이 어떻게 상호작용해야 하는지에 대한 기대를 설정합니다. Mergington 고등학교의 학생 핸드북처럼 생각하세요 - 존중하는 행동, 비기술적 문제를 보고하는 방법, 그리고 위반에 대한 결과를 설명합니다.
 
-2. **Issue Templates** - These provide structure when someone reports a problem or suggests a new feature. They can help the community effectively communicate their needs for new features and provide enough information to solve bugs.
+2. **이슈 템플릿(Issue Templates)** - 누군가 문제를 보고하거나 새로운 기능을 제안할 때 구조를 제공합니다. 커뮤니티가 새로운 기능에 대한 요구를 효과적으로 전달하고 버그를 해결하기에 충분한 정보를 제공하는 데 도움이 됩니다.
 
-## ⌨️ Activity: Set expectations with a Code of Conduct
+## ⌨️ 활동: 행동 강령으로 기대치 설정하기
 
-Let's start by establishing some community guidelines for your growing team of teacher-contributors.
+성장하는 교사 기여자 팀을 위한 커뮤니티 가이드라인을 수립합시다.
 
 > [!TIP]
-> The [Contributor Covenant](https://www.contributor-covenant.org/) is a popular code of conduct used by many projects.
+> [Contributor Covenant](https://www.contributor-covenant.org/)는 많은 프로젝트에서 사용하는 인기 있는 행동 강령입니다.
 
-1. At the top navigation, return to the **Code** tab. Ensure you are on the `prepare-to-collaborate` branch.
+1. 상단 탐색에서 **Code** 탭으로 돌아갑니다. `prepare-to-collaborate` 브랜치에 있는지 확인합니다.
 
-1. In the top directory, create a new file called `CODE_OF_CONDUCT.md` (case sensitive).
+1. 최상위 디렉토리에서 `CODE_OF_CONDUCT.md`라는 새 파일을 만듭니다 (대소문자 구분).
 
-1. Add the following content:
+1. 다음 내용을 추가합니다:
 
    ```markdown
    # Mergington High School Code of Conduct
@@ -84,30 +84,30 @@ Let's start by establishing some community guidelines for your growing team of t
    version 1.4, available at [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
    ```
 
-1. In the top right, use the **Commit changes...** button and commit your changes directly to `prepare-to-collaborate` branch.
+1. 오른쪽 상단에서 **Commit changes...** 버튼을 사용하고 `prepare-to-collaborate` 브랜치에 직접 커밋합니다.
 
-## ⌨️ Activity: Communicate easier with issue templates
+## ⌨️ 활동: 이슈 템플릿으로 더 쉽게 소통하기
 
-Now let's create templates so other teachers can report bugs or request features in a standardized way.
+다른 교사들이 버그를 보고하거나 기능을 요청할 때 표준화된 방식으로 할 수 있도록 템플릿을 만들어 봅시다.
 
 > [!TIP]
-> You might consider trying the public preview for [issue forms](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms), which provide a friendlier user experience when creating issues.
+> 이슈를 만들 때 더 친화적인 사용자 경험을 제공하는 [이슈 양식(issue forms)](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms)의 공개 미리보기를 사용해 볼 수 있습니다.
 
-1. In the top navigation, select the **Settings** tab.
+1. 상단 탐색에서 **Settings** 탭을 선택합니다.
 
-1. Find the **Features** section and verify **Issues** is enabled.
+1. **Features** 섹션을 찾고 **Issues**가 활성화되어 있는지 확인합니다.
 
    <img width="350" alt="" src="https://github.com/user-attachments/assets/dafb976b-4b8c-4c5e-8989-04d3e7bbe70d" />
 
-1. Click the **Set up templates** button to enter the issue templates editor.
+1. **Set up templates** 버튼을 클릭하여 이슈 템플릿 편집기에 들어갑니다.
 
    <img width="350" alt="image" src="https://github.com/user-attachments/assets/bd94af1e-d564-472f-a435-f12fa1bf3b5c" />
 
-1. Click the **Add template** dropdown and select **Bug report**.
+1. **Add template** 드롭다운을 클릭하고 **Bug report**를 선택합니다.
 
    <img width="350" alt="" src="https://github.com/user-attachments/assets/baee263d-b233-4029-b629-9544eacf1e27" />
 
-1. Click the **Preview and edit** button to show the current template. Click the **Edit icon** (pencil) to make the fields editable.
+1. **Preview and edit** 버튼을 클릭하여 현재 템플릿을 보여줍니다. **편집 아이콘**(연필)을 클릭하여 필드를 편집 가능하게 만듭니다.
 
    <img width="350" alt="image" src="https://github.com/user-attachments/assets/1c8500f7-10b2-406b-9385-d5b9480e2f71" /><br/>
 
@@ -115,17 +115,17 @@ Now let's create templates so other teachers can report bugs or request features
 
    <img width="700" alt="image" src="https://github.com/user-attachments/assets/c2aecd6e-d021-4149-b088-7cbf883a7e33" />
 
-1. (Optional) Let's keep it simple for our students and fellow teachers. Remove the sections about Desktop and Smartphone details.
+1. (선택) 학생과 동료 교사들을 위해 간단하게 유지합시다. 데스크톱과 스마트폰 상세 정보 섹션을 제거합니다.
 
-1. Repeat the above steps for the "Feature request" template.
+1. 위 단계를 "Feature request" 템플릿에 대해 반복합니다.
 
    <img width="350" alt="image" src="https://github.com/user-attachments/assets/6456e261-fcd8-4845-b1ab-f2c2d5883c77" />
 
-1. With our templates prepared, let's commit them. In the top right, click the **Propose changes** button. Enter a description and set the branch to `add-issue-templates`, then click **Commit changes**. You can ignore the automatically created pull request.
+1. 템플릿이 준비되었으니 커밋합시다. 오른쪽 상단에서 **Propose changes** 버튼을 클릭합니다. 설명을 입력하고 브랜치를 `add-issue-templates`로 설정한 다음 **Commit changes**를 클릭합니다. 자동으로 생성된 풀 리퀘스트는 무시해도 됩니다.
 
    <img width="350" alt="image" src="https://github.com/user-attachments/assets/a00a3740-ce0c-430c-9541-e56b7d9b45d6" />
 
-1. With the files committed, wait a moment for Mona to check your work, provide feedback, and share the next lesson.
+1. 파일이 커밋되면, Mona가 작업을 확인하고 피드백을 제공하며 다음 레슨을 공유할 때까지 잠시 기다립니다.
 
 > [!TIP]
-> Did you notice that you are working in parallel on 2 branches now? That's exactly what working with multiple collaborators is like.
+> 지금 2개의 브랜치에서 병렬로 작업하고 있다는 것을 눈치채셨나요? 여러 협업자와 함께 작업하는 것이 바로 이런 것입니다.

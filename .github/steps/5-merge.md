@@ -1,13 +1,13 @@
-# Step 5: Release
+# Step 5: 릴리스
 
-With all our preparations ready, it's time to release them!
+모든 준비가 완료되었으니 릴리스할 시간입니다!
 
-## ⌨️ Activity: Merge our collaboration changes
+## ⌨️ 활동: 협업 변경사항 병합하기
 
-1. In the top navigation, select the **Pull requests** tab.
+1. 상단 탐색에서 **Pull requests** 탭을 선택합니다.
 
-1. Find the pull request for the `prepare-to-collaborate` branch and merge it. You may need to wait for your new security scans to finish.
+1. `prepare-to-collaborate` 브랜치에 대한 풀 리퀘스트를 찾아 병합합니다. 새로운 보안 스캔이 완료될 때까지 기다려야 할 수 있습니다.
 
-1. Find the pull request for the `add-issue-templates` branch and merge it. You may need to wait for your new security scans to finish.
+1. `add-issue-templates` 브랜치에 대한 풀 리퀘스트를 찾아 병합합니다. 새로운 보안 스캔이 완료될 때까지 기다려야 할 수 있습니다.
 
-1. With both pull requests merged, Mona will prepare the final review and acknowledge the exercise as finished! Nice work! You are all done! 🎉
+1. 두 풀 리퀘스트가 모두 병합되면, Mona가 최종 리뷰를 준비하고 실습이 완료되었음을 확인합니다! 수고하셨습니다! 모두 완료! 🎉
