@@ -40,7 +40,7 @@ jobs:
           repository: skills-kr/exercise-toolkit
           path: exercise-toolkit
           # Results table still uses old format. Needs refactored to update.
-          ref: v0.3.0
+          ref: kr-v0.6.0
 
       - name: 댓글 업데이트 - 작업 확인 중
         run: |
